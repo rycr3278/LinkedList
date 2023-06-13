@@ -94,6 +94,9 @@ private:
   shared_ptr<node> top_ptr_;
 
   // you can add add more private member variables and member functions here if you need
+
+
+
 };
 
 #endif  // LINKEDLIST_H__
